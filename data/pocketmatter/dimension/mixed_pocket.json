@@ -1,0 +1,34 @@
+{
+  "type": "pocketmatter:mixed_pocket",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "minecraft:the_void",
+      "features": false,
+      "lakes": false,
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "pocketmatter:black_matter_stone",
+          "height": 2
+        },
+        {
+          "block": "pocketmatter:red_matter_stone",
+          "height": 2
+        },
+        {
+          "block": "pocketmatter:black_matter_stone",
+          "height": 2
+        },
+        {
+          "block": "pocketmatter:red_matter_stone",
+          "height": 2
+        }
+      ],
+      "structure_overrides": []
+    }
+  }
+}

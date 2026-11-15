@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "C C",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "pocketmatter:ember_core"
+    }
+  },
+  "result": {
+    "item": "pocketmatter:ember_chestplate",
+    "count": 1
+  }
+}

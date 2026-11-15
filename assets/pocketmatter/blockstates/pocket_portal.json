@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "pocketmatter:block/pocket_portal"
+    }
+  }
+}
